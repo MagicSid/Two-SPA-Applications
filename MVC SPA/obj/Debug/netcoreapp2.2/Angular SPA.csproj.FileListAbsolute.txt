@@ -1,0 +1,62 @@
+E:\Github\Angular SPA\bin\Debug\netcoreapp2.2\Angular SPA.deps.json
+E:\Github\Angular SPA\bin\Debug\netcoreapp2.2\Angular SPA.runtimeconfig.json
+E:\Github\Angular SPA\bin\Debug\netcoreapp2.2\Angular SPA.runtimeconfig.dev.json
+E:\Github\Angular SPA\bin\Debug\netcoreapp2.2\Angular SPA.dll
+E:\Github\Angular SPA\bin\Debug\netcoreapp2.2\Angular SPA.pdb
+E:\Github\Angular SPA\bin\Debug\netcoreapp2.2\Angular SPA.Views.dll
+E:\Github\Angular SPA\bin\Debug\netcoreapp2.2\Angular SPA.Views.pdb
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.csprojAssemblyReference.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.csproj.CoreCompileInputs.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorAssemblyInfo.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorAssemblyInfo.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.AssemblyInfoInputs.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.AssemblyInfo.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.TagHelpers.input.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.TagHelpers.output.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorCoreGenerate.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorTargetAssemblyInfo.cache
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorTargetAssemblyInfo.cs
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.Views.pdb
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.dll
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.pdb
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Angular SPA.csproj.CopyComplete
+E:\Github\Angular SPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Tableview.g.cshtml.cs
+E:\Github\MVC SPA\bin\Debug\netcoreapp2.2\Angular SPA.deps.json
+E:\Github\MVC SPA\bin\Debug\netcoreapp2.2\Angular SPA.runtimeconfig.json
+E:\Github\MVC SPA\bin\Debug\netcoreapp2.2\Angular SPA.runtimeconfig.dev.json
+E:\Github\MVC SPA\bin\Debug\netcoreapp2.2\Angular SPA.dll
+E:\Github\MVC SPA\bin\Debug\netcoreapp2.2\Angular SPA.pdb
+E:\Github\MVC SPA\bin\Debug\netcoreapp2.2\Angular SPA.Views.dll
+E:\Github\MVC SPA\bin\Debug\netcoreapp2.2\Angular SPA.Views.pdb
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.csprojAssemblyReference.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.csproj.CoreCompileInputs.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorAssemblyInfo.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorAssemblyInfo.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.AssemblyInfoInputs.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.AssemblyInfo.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.TagHelpers.input.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.TagHelpers.output.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorCoreGenerate.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Tableview.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorTargetAssemblyInfo.cache
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.RazorTargetAssemblyInfo.cs
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.Views.pdb
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.dll
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.pdb
+E:\Github\MVC SPA\obj\Debug\netcoreapp2.2\Angular SPA.csproj.CopyComplete

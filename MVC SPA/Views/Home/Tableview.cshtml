@@ -1,0 +1,55 @@
+﻿@using Angular_SPA.Models
+@model Angular_SPA.Models.TestPeopleCollection
+@{
+    ViewData["Title"] = "TableView";
+}
+
+<script type="text/javascript">
+    function handler(passId, passIncrement) {
+        $.ajax({
+            url: '/Home/CallIncrement',
+            type: 'POST',
+            data: {
+                'id': passId,
+                'increment': passIncrement
+            },
+            datatype: "JSON",
+            contentType: "application/x-www-form-urlencoded"
+        }).fail(function (data) {
+            alert("Failed to update value");
+        }).done(function (data) {
+            location.reload(true);
+        })
+    }
+</script>
+
+
+<h1>@ViewData["Title"]</h1>
+
+<body ng-app="">
+
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Increment</th>
+        </tr>
+
+        @foreach (TestPeopleModel item in Model.GetPeople())
+        {
+            <tr>
+                <th>@item.Name</th>
+                <th>@item.Increment</th>
+                <th >
+                    <button onclick={handler(@item.Id,@item.Increment)}>
+                        Increment
+                    </button>
+                </th>
+            </tr>
+        }
+
+
+
+
+    </table>
+
+</body>
